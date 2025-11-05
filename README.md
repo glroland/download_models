@@ -3,6 +3,7 @@
 ## Instructions:
 * Obtain a python environment or use what is active
 * pip install -r requirements.txt
+* Set the AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables
 
 ## Download all models:
 
